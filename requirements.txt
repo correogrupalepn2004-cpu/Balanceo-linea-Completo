@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+numpy
+graphviz
+plotly
+xlsxwriter
+scipy
+pillow
